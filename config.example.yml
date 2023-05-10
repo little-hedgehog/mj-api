@@ -1,0 +1,4 @@
+guild_id: 'ID of your discord guild'
+channel_id: 'ID of your discord channel'
+authorization: 'Just copy the authorization from the request header which you fetched with chrome'
+user_agent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
